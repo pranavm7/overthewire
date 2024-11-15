@@ -18,3 +18,5 @@ We will escape the spaces in order for the file to be treated as one file, and n
 cat spaces\ in\ this\ filename
 # This directly outputs the password requried.
 ```
+
+We can then use the password to move onto level 4!

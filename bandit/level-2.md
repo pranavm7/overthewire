@@ -17,3 +17,10 @@ Here we will output the contents of the file
 ```bash
 cat ./-
 ```
+
+Then the password revealed that can be used to bandit2!
+
+```bash
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+```
+
