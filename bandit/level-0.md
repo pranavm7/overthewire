@@ -4,6 +4,8 @@ description: Learn to SSH!
 
 # Level 0
 
+{% embed url="https://overthewire.org/wargames/bandit/bandit0.html" %}
+
 This is a straightforward challenge, we will establish a connection from our computer to the challenge machine using [SSH](https://www.openssh.com/).
 
 ```bash
