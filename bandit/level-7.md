@@ -32,4 +32,4 @@ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 
 This gives us a path that we can check with `ls -l` to verify the requirements are met and `cat` to print the password!
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>The output of the command crafted.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The output of the command crafted.</p></figcaption></figure>

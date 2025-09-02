@@ -18,6 +18,6 @@ Seems like `find` command would be hugely helpful here. We know that the file wi
 find . -type f -size 1033c -readable ! -executable
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 And we find the password to the next level.

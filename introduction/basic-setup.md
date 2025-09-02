@@ -6,6 +6,12 @@ description: What you'd need to get started.
 
 ### :desktop: My setup
 
+{% hint style="info" %}
+Note:
+
+Although I'm simply sharing my machine details here, this is by no means a requirement. Simply having a machine that can run the `ssh` command will do!
+{% endhint %}
+
 I'm currently running [Kali Linux](https://www.kali.org/) as my OS of choice, virtualized in VMWare hosted on Windows 11. I've customized it over the years but the most important facts are below:
 
 * A [shared folder](https://docs.vmware.com/en/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUID-D6D9A5FD-7F5F-4C95-AFAB-EDE9335F5562.html) between my VM and my host.
@@ -25,4 +31,4 @@ Catch you on the next page! :wave:
 
 Happy Hacking!
 
-\->P.M.
+->P.M.

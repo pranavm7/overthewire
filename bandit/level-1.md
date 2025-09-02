@@ -28,7 +28,7 @@ We will use the `cat` command to print the password:
 cat ./readme
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Output of solution</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Output of solution</p></figcaption></figure>
 
 Then we simply type exit to exit the shell and reconnect as bandit1 and use the provided password
 

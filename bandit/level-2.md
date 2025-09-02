@@ -10,7 +10,7 @@ description: >-
 
 Running the same ls command as before got us different results.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>listing all files at home dir</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>listing all files at home dir</p></figcaption></figure>
 
 Here we will output the contents of the file
 

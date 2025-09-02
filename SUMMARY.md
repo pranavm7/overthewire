@@ -25,6 +25,8 @@
   * [Level 9](bandit/level-9.md)
   * [Level 10](bandit/level-10.md)
   * [Level 11](bandit/level-11.md)
+  * [Level 12](bandit/level-12.md)
+  * [Level 13](bandit/level-13.md)
 
 ## identity
 

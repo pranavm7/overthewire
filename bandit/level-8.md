@@ -8,7 +8,7 @@ description: Millionaire
 
 The password is next to the word 'millionth' in `data.txt` file. Here is a quick look at data.txt to gain context of the challenge:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>data.txt excerpt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>data.txt excerpt</p></figcaption></figure>
 
 Instead of scrolling through the file endlessly, we can use `grep`!&#x20;
 

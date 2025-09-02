@@ -8,7 +8,11 @@ description: B64 decoded.
 
 The data is encoded in [Base64](https://en.wikipedia.org/wiki/Base64) which we'll need to decode in order to get the password. It is important to distinguish that there is a difference between encryption and encoding.
 
+{% hint style="info" %}
+Note:
+
 If data is encrypted, we have to crack the encryption or need a password. However, since it is encoded, we can simply decode the data.
+{% endhint %}
 
 The `data.txt` has the following data:
 
